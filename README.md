@@ -4,10 +4,6 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=dnx01&icon=2&color=6)](https://visitcount.itsvg.in)
 </div>
 
 <h2 align="center"> 👨‍💻 Mariani</h2>
@@ -31,7 +27,10 @@
 <p align="center">HTML5, CSS3, JavaScript, Boostrap </p>
 
 <hr>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=dnx01&icon=2&color=6)](https://visitcount.itsvg.in)
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
