@@ -30,7 +30,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dnx01&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dnx01&icon=2&color=6)]
 <hr>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
