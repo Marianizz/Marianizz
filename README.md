@@ -1,7 +1,7 @@
 <!--
 --->  
 
-<h1 align="center"> 👋 </h1>
+<h1 align="center"> 👋 Hello I'm Mariani</h1>
 <div align="center">
   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
 </div>
