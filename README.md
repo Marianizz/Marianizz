@@ -14,7 +14,7 @@
   </samp>
   <br> <br>
 </p>
-<p dir="auto"><a href="https://github.com/vAndrewKarma"><img src="https://camo.githubusercontent.com/46e8d90b0cfea43064fb168279fcb0aeeb3091851dbcfe83dfa8253af2988ab4/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d76416e647265774b61726d6126636f6c756d6e3d38266d617267696e2d773d3130266d617267696e2d683d30266e6f2d62673d74727565266e6f2d6672616d653d74727565267468656d653d6461726b5f64696d6d6564" alt="𝚝𝚛𝚘𝚙𝚑𝚢" data-canonical-src="https://github-profile-trophy.vercel.app/?username=vAndrewKarma&amp;column=8&amp;margin-w=10&amp;margin-h=0&amp;no-bg=true&amp;no-frame=true&amp;theme=dark_dimmed" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://github.com/Marianizz"><img src="https://camo.githubusercontent.com/46e8d90b0cfea43064fb168279fcb0aeeb3091851dbcfe83dfa8253af2988ab4/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d76416e647265774b61726d6126636f6c756d6e3d38266d617267696e2d773d3130266d617267696e2d683d30266e6f2d62673d74727565266e6f2d6672616d653d74727565267468656d653d6461726b5f64696d6d6564" alt="𝚝𝚛𝚘𝚙𝚑𝚢" data-canonical-src="https://github-profile-trophy.vercel.app/?username=Marianizz&amp;column=8&amp;margin-w=10&amp;margin-h=0&amp;no-bg=true&amp;no-frame=true&amp;theme=dark_dimmed" style="max-width: 100%;"></a></p>
 <hr>
 
 <h2 align="center"> 🔭 Tools</h2>
@@ -22,8 +22,8 @@
 
 <p align="center">HTML5, CSS3, JavaScript, Boostrap, C++, Unity </p>
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vAndrewKarma&include_all_commits=true&count_private=true&&show_icons=true&theme=material-palenight" width="400"></a> 
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vAndrewKarma&count_private=true&show_icons=true&theme=material-palenight" width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Marianizz&include_all_commits=true&count_private=true&&show_icons=true&theme=material-palenight" width="400"></a> 
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Marianizz&count_private=true&show_icons=true&theme=material-palenight" width="400"></a>
 </p>
 <hr>
 <hr>
